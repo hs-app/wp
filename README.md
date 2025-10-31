@@ -1,1 +1,1 @@
-# Welcom Pages
+# Welcome Pages
